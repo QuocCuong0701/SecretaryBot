@@ -1,0 +1,1120 @@
+2026-02-07T13:42:07.121+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 28544 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:42:07.122+07:00 DEBUG 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:42:07.123+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:42:07.149+07:00  INFO 28544 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T13:42:07.149+07:00  INFO 28544 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T13:42:07.632+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:42:07.640+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:42:07.640+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:42:07.665+07:00  INFO 28544 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 515 ms
+2026-02-07T13:42:09.015+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:42:09.039+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:42:09.043+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.181 seconds (process running for 2.626)
+2026-02-07T13:42:32.494+07:00  INFO 28544 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : /mute @cuongpq_0701 1
+2026-02-07T13:47:36.425+07:00  INFO 28544 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-02-07T13:47:36.431+07:00  INFO 28544 --- [secretary-bot] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:47:36.468+07:00  INFO 28544 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:47:36.540+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 28544 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:47:36.540+07:00 DEBUG 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:47:36.540+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:47:36.629+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:47:36.629+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:47:36.629+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:47:36.640+07:00  INFO 28544 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 98 ms
+2026-02-07T13:47:36.685+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:47:36.687+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 0.164 seconds (process running for 330.269)
+2026-02-07T13:47:36.688+07:00  INFO 28544 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T13:48:14.554+07:00  INFO 28544 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-02-07T13:48:14.555+07:00  INFO 28544 --- [secretary-bot] [Thread-5] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:48:14.581+07:00  INFO 28544 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:48:14.650+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 28544 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:48:14.651+07:00 DEBUG 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:48:14.651+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:48:14.738+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:48:14.739+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:48:14.739+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:48:14.750+07:00  INFO 28544 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 98 ms
+2026-02-07T13:48:15.658+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:48:15.665+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:48:15.673+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 1.039 seconds (process running for 369.255)
+2026-02-07T13:48:15.675+07:00  INFO 28544 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T13:48:16.104+07:00 ERROR 28544 --- [secretary-bot] [pool-3-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 365 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T13:48:16.209+07:00  INFO 28544 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2026-02-07T13:48:16.210+07:00  INFO 28544 --- [secretary-bot] [Thread-9] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:48:16.237+07:00  INFO 28544 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:48:16.280+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 28544 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:48:16.280+07:00 DEBUG 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:48:16.280+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:48:16.345+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:48:16.346+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:48:16.346+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:48:16.358+07:00  INFO 28544 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 77 ms
+2026-02-07T13:48:17.215+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:48:17.222+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:48:17.223+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 0.955 seconds (process running for 370.806)
+2026-02-07T13:48:17.224+07:00  INFO 28544 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T13:48:20.650+07:00 ERROR 28544 --- [secretary-bot] [pool-4-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 388 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T13:49:28.042+07:00  INFO 28544 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-02-07T13:49:28.044+07:00  INFO 28544 --- [secretary-bot] [Thread-13] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:49:28.071+07:00  INFO 28544 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:49:28.112+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 28544 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:49:28.112+07:00 DEBUG 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:49:28.112+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:49:28.176+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:49:28.176+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:49:28.176+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:49:28.187+07:00  INFO 28544 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 74 ms
+2026-02-07T13:49:29.045+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:49:29.056+07:00  INFO 28544 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:49:29.058+07:00  INFO 28544 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 0.955 seconds (process running for 442.64)
+2026-02-07T13:49:29.059+07:00  INFO 28544 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T13:49:29.483+07:00 ERROR 28544 --- [secretary-bot] [pool-5-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 615 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T13:50:35.648+07:00  INFO 28544 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:50:35.672+07:00  INFO 28544 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:50:38.161+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 178624 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:50:38.163+07:00 DEBUG 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:50:38.163+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:50:38.189+07:00  INFO 178624 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T13:50:38.189+07:00  INFO 178624 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T13:50:38.737+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:50:38.745+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:50:38.745+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:50:38.770+07:00  INFO 178624 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 581 ms
+2026-02-07T13:50:40.264+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:50:40.301+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:50:40.307+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.429 seconds (process running for 2.854)
+2026-02-07T13:51:46.265+07:00  INFO 178624 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-02-07T13:51:46.268+07:00  INFO 178624 --- [secretary-bot] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:51:46.297+07:00  INFO 178624 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:51:46.344+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 178624 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:51:46.345+07:00 DEBUG 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:51:46.345+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:51:46.421+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:51:46.421+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:51:46.421+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:51:46.434+07:00  INFO 178624 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 88 ms
+2026-02-07T13:51:47.348+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:51:47.359+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:51:47.360+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 1.028 seconds (process running for 69.908)
+2026-02-07T13:51:47.361+07:00  INFO 178624 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T13:51:47.789+07:00 ERROR 178624 --- [secretary-bot] [pool-3-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 739 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T13:52:01.928+07:00  INFO 178624 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-02-07T13:52:01.929+07:00  INFO 178624 --- [secretary-bot] [Thread-5] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:52:01.953+07:00  INFO 178624 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:52:02.012+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 178624 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:52:02.012+07:00 DEBUG 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:52:02.012+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:52:02.090+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:52:02.091+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:52:02.091+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:52:02.102+07:00  INFO 178624 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 89 ms
+2026-02-07T13:52:02.986+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:52:02.997+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:52:02.999+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 1.002 seconds (process running for 85.547)
+2026-02-07T13:52:02.999+07:00  INFO 178624 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T13:52:03.437+07:00 ERROR 178624 --- [secretary-bot] [pool-4-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 312 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T13:52:16.584+07:00  INFO 178624 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-02-07T13:52:16.585+07:00  INFO 178624 --- [secretary-bot] [Thread-9] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:52:16.612+07:00  INFO 178624 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:52:16.651+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 178624 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:52:16.651+07:00 DEBUG 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:52:16.651+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:52:16.715+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:52:16.716+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:52:16.716+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:52:16.728+07:00  INFO 178624 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 76 ms
+2026-02-07T13:52:17.581+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:52:17.588+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:52:17.589+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 0.949 seconds (process running for 100.138)
+2026-02-07T13:52:17.590+07:00  INFO 178624 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T13:52:18.018+07:00 ERROR 178624 --- [secretary-bot] [pool-5-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 312 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T13:54:11.711+07:00  INFO 178624 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-02-07T13:54:11.713+07:00  INFO 178624 --- [secretary-bot] [Thread-13] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:54:11.762+07:00  INFO 178624 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:54:11.830+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 178624 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:54:11.830+07:00 DEBUG 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:54:11.830+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:54:11.912+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:54:11.912+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:54:11.912+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:54:11.924+07:00  INFO 178624 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 93 ms
+2026-02-07T13:54:12.793+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:54:12.805+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:54:12.806+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 0.988 seconds (process running for 215.354)
+2026-02-07T13:54:12.806+07:00  INFO 178624 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T13:54:13.226+07:00 ERROR 178624 --- [secretary-bot] [pool-6-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 325 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T13:55:34.605+07:00  INFO 178624 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-02-07T13:55:34.606+07:00  INFO 178624 --- [secretary-bot] [Thread-17] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:55:34.632+07:00  INFO 178624 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:55:34.699+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 178624 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:55:34.699+07:00 DEBUG 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:55:34.699+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:55:34.772+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:55:34.773+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:55:34.773+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:55:34.784+07:00  INFO 178624 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 83 ms
+2026-02-07T13:55:35.691+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:55:35.696+07:00  INFO 178624 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:55:35.698+07:00  INFO 178624 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 1.016 seconds (process running for 298.246)
+2026-02-07T13:55:35.698+07:00  INFO 178624 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T13:55:36.129+07:00 ERROR 178624 --- [secretary-bot] [pool-7-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 333 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T13:55:59.032+07:00  INFO 178624 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T13:55:59.055+07:00  INFO 178624 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T13:56:01.161+07:00  INFO 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 172564 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T13:56:01.163+07:00 DEBUG 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T13:56:01.163+07:00  INFO 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T13:56:01.188+07:00  INFO 172564 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T13:56:01.188+07:00  INFO 172564 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T13:56:01.660+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T13:56:01.667+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T13:56:01.668+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T13:56:01.692+07:00  INFO 172564 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 503 ms
+2026-02-07T13:56:03.006+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T13:56:03.030+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T13:56:03.034+07:00  INFO 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.127 seconds (process running for 2.554)
+2026-02-07T13:56:13.465+07:00  INFO 172564 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : /mute @cuongpq_0701 1
+2026-02-07T13:56:57.038+07:00  INFO 172564 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp:\n\\- /mute @taylor\\_swift 5 \\- Cấm chat Taylor Swift trong 5 phút\n\\- /unmute @taylor\\_swift \\- Mở chat Taylor Swift","parse_mode":"MarkdownV2","method":"sendmessage"}
+2026-02-07T14:05:19.413+07:00  INFO 172564 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-02-07T14:05:19.417+07:00  INFO 172564 --- [secretary-bot] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:05:19.442+07:00  INFO 172564 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:05:19.498+07:00  INFO 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 172564 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:05:19.499+07:00 DEBUG 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:05:19.499+07:00  INFO 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:05:19.577+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:05:19.578+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:05:19.578+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:05:19.589+07:00  INFO 172564 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 89 ms
+2026-02-07T14:05:20.501+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:05:20.507+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:05:20.509+07:00  INFO 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 1.03 seconds (process running for 560.029)
+2026-02-07T14:05:20.510+07:00  INFO 172564 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T14:05:20.946+07:00 ERROR 172564 --- [secretary-bot] [pool-3-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 440 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T14:05:35.087+07:00  INFO 172564 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-02-07T14:05:35.088+07:00  INFO 172564 --- [secretary-bot] [Thread-5] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:05:35.112+07:00  INFO 172564 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:05:35.172+07:00  INFO 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 172564 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:05:35.172+07:00 DEBUG 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:05:35.172+07:00  INFO 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:05:35.243+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:05:35.244+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:05:35.244+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:05:35.258+07:00  INFO 172564 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 84 ms
+2026-02-07T14:05:36.118+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:05:36.129+07:00  INFO 172564 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:05:36.131+07:00  INFO 172564 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 0.98 seconds (process running for 575.651)
+2026-02-07T14:05:36.132+07:00  INFO 172564 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T14:05:36.550+07:00 ERROR 172564 --- [secretary-bot] [pool-4-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 439 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T14:05:58.497+07:00  INFO 172564 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:05:58.521+07:00  INFO 172564 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:06:00.278+07:00  INFO 98852 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 98852 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:06:00.280+07:00 DEBUG 98852 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:06:00.281+07:00  INFO 98852 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:06:00.311+07:00  INFO 98852 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T14:06:00.311+07:00  INFO 98852 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T14:06:00.885+07:00  INFO 98852 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:06:00.894+07:00  INFO 98852 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:06:00.894+07:00  INFO 98852 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:06:00.926+07:00  INFO 98852 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 614 ms
+2026-02-07T14:06:02.752+07:00  INFO 98852 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:06:02.776+07:00  INFO 98852 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:06:02.779+07:00  INFO 98852 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.878 seconds (process running for 3.359)
+2026-02-07T14:09:48.369+07:00  INFO 98852 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:09:48.393+07:00  INFO 98852 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:09:49.887+07:00  INFO 151232 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 151232 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:09:49.889+07:00 DEBUG 151232 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:09:49.889+07:00  INFO 151232 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:09:49.914+07:00  INFO 151232 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T14:09:49.914+07:00  INFO 151232 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T14:09:50.386+07:00  INFO 151232 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:09:50.393+07:00  INFO 151232 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:09:50.394+07:00  INFO 151232 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:09:50.418+07:00  INFO 151232 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 504 ms
+2026-02-07T14:09:51.786+07:00  INFO 151232 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:09:51.809+07:00  INFO 151232 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:09:51.813+07:00  INFO 151232 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.191 seconds (process running for 2.672)
+2026-02-07T14:09:53.473+07:00  INFO 151232 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : /mute @cuongpq_0701 1
+2026-02-07T14:10:34.621+07:00  INFO 151232 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : /mute
+2026-02-07T14:11:06.650+07:00  INFO 151232 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : /mute
+2026-02-07T14:12:00.267+07:00  INFO 151232 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : /mute
+2026-02-07T14:12:30.433+07:00  INFO 151232 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : /mute
+2026-02-07T14:12:45.849+07:00  INFO 151232 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:12:45.873+07:00  INFO 151232 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:12:47.355+07:00  INFO 21928 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 21928 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:12:47.356+07:00 DEBUG 21928 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:12:47.357+07:00  INFO 21928 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:12:47.382+07:00  INFO 21928 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T14:12:47.382+07:00  INFO 21928 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T14:12:47.849+07:00  INFO 21928 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:12:47.857+07:00  INFO 21928 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:12:47.857+07:00  INFO 21928 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:12:47.882+07:00  INFO 21928 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 500 ms
+2026-02-07T14:12:49.215+07:00  INFO 21928 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:12:49.238+07:00  INFO 21928 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:12:49.242+07:00  INFO 21928 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.139 seconds (process running for 2.709)
+2026-02-07T14:14:40.725+07:00  INFO 21928 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:14:40.751+07:00  INFO 21928 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:14:43.149+07:00  INFO 51204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 51204 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:14:43.151+07:00 DEBUG 51204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:14:43.151+07:00  INFO 51204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:14:43.176+07:00  INFO 51204 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T14:14:43.176+07:00  INFO 51204 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T14:14:43.641+07:00  INFO 51204 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:14:43.649+07:00  INFO 51204 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:14:43.649+07:00  INFO 51204 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:14:43.674+07:00  INFO 51204 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 497 ms
+2026-02-07T14:14:45.093+07:00  INFO 51204 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:14:45.118+07:00  INFO 51204 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:14:45.122+07:00  INFO 51204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.234 seconds (process running for 2.665)
+2026-02-07T14:16:24.410+07:00  INFO 51204 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:16:24.435+07:00  INFO 51204 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:16:27.095+07:00  INFO 92764 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 92764 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:16:27.096+07:00 DEBUG 92764 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:16:27.097+07:00  INFO 92764 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:16:27.122+07:00  INFO 92764 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T14:16:27.122+07:00  INFO 92764 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T14:16:27.602+07:00  INFO 92764 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:16:27.610+07:00  INFO 92764 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:16:27.610+07:00  INFO 92764 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:16:27.635+07:00  INFO 92764 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 512 ms
+2026-02-07T14:16:28.984+07:00  INFO 92764 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:16:29.020+07:00  INFO 92764 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:16:29.026+07:00  INFO 92764 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.19 seconds (process running for 2.668)
+2026-02-07T14:16:44.281+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nCannot invoke \"org.telegram.telegrambots.meta.api.methods.botapimethods.BotApiMethod.getMethod()\" because \"method\" is null","method":"sendmessage"}
+2026-02-07T14:16:47.977+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nError executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot can't initiate conversation with a user","method":"sendmessage"}
+2026-02-07T14:16:49.018+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nError executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot can't initiate conversation with a user","method":"sendmessage"}
+2026-02-07T14:16:50.049+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nError executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot can't initiate conversation with a user","method":"sendmessage"}
+2026-02-07T14:16:51.094+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nError executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot can't initiate conversation with a user","method":"sendmessage"}
+2026-02-07T14:16:52.125+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nError executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot can't initiate conversation with a user","method":"sendmessage"}
+2026-02-07T14:16:53.168+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nError executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot can't initiate conversation with a user","method":"sendmessage"}
+2026-02-07T14:16:54.227+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nError executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot can't initiate conversation with a user","method":"sendmessage"}
+2026-02-07T14:16:55.296+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nError executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot can't initiate conversation with a user","method":"sendmessage"}
+2026-02-07T14:16:56.354+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nError executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot can't initiate conversation with a user","method":"sendmessage"}
+2026-02-07T14:16:57.415+07:00 ERROR 92764 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nError executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot can't initiate conversation with a user","method":"sendmessage"}
+2026-02-07T14:16:58.054+07:00  INFO 92764 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:16:58.080+07:00  INFO 92764 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:17:31.710+07:00  INFO 55024 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 55024 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:17:31.712+07:00 DEBUG 55024 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:17:31.712+07:00  INFO 55024 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:17:31.736+07:00  INFO 55024 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T14:17:31.737+07:00  INFO 55024 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T14:17:32.203+07:00  INFO 55024 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:17:32.211+07:00  INFO 55024 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:17:32.211+07:00  INFO 55024 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:17:32.236+07:00  INFO 55024 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 499 ms
+2026-02-07T14:17:33.540+07:00  INFO 55024 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:17:33.563+07:00  INFO 55024 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:17:33.566+07:00  INFO 55024 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.11 seconds (process running for 2.53)
+2026-02-07T14:17:41.896+07:00 ERROR 55024 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nCannot invoke \"org.telegram.telegrambots.meta.api.methods.botapimethods.BotApiMethod.getMethod()\" because \"method\" is null","method":"sendmessage"}
+2026-02-07T14:17:42.928+07:00  INFO 55024 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6470505364","text":"7730185852 - quoccuong_477 - Joe 477. Content: /mute\r\nCannot invoke \"org.telegram.telegrambots.meta.api.methods.botapimethods.BotApiMethod.getMethod()\" because \"method\" is null","method":"sendmessage"}
+2026-02-07T14:19:25.299+07:00  INFO 55024 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:19:25.324+07:00  INFO 55024 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:19:27.160+07:00  INFO 132220 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 132220 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:19:27.162+07:00 DEBUG 132220 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:19:27.163+07:00  INFO 132220 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:19:27.187+07:00  INFO 132220 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T14:19:27.188+07:00  INFO 132220 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T14:19:27.658+07:00  INFO 132220 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:19:27.667+07:00  INFO 132220 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:19:27.668+07:00  INFO 132220 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:19:27.694+07:00  INFO 132220 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 506 ms
+2026-02-07T14:19:27.739+07:00  WARN 132220 --- [secretary-bot] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'botService': Injection of autowired dependencies failed
+2026-02-07T14:19:27.741+07:00  INFO 132220 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2026-02-07T14:19:27.747+07:00  INFO 132220 --- [secretary-bot] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-02-07T14:19:27.756+07:00 ERROR 132220 --- [secretary-bot] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'botService': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:498) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1446) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:993) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:620) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.2.jar:4.0.2]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.2.jar:4.0.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.2.jar:4.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.2.jar:4.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.2.jar:4.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.2.jar:4.0.2]
+	at com.quoccuong.secretarybot.SecretaryBotApplication.main(SecretaryBotApplication.java:10) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.2.jar:4.0.2]
+Caused by: org.springframework.util.PlaceholderResolutionException: Could not resolve placeholder 'BOT_TOKEN' in value "${BOT_TOKEN}" <-- "${telegram.bot.token}"
+	at org.springframework.util.PlaceholderResolutionException.withValue(PlaceholderResolutionException.java:81) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.util.PlaceholderParser$ParsedValue.resolve(PlaceholderParser.java:296) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.util.PlaceholderParser.replacePlaceholders(PlaceholderParser.java:129) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:96) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:286) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:257) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:184) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:959) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1672) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1651) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:763) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:747) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:146) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:492) ~[spring-beans-7.0.3.jar:7.0.3]
+	... 24 common frames omitted
+
+2026-02-07T14:19:49.081+07:00  INFO 168352 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 168352 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:19:49.083+07:00 DEBUG 168352 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:19:49.083+07:00  INFO 168352 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:19:49.107+07:00  INFO 168352 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T14:19:49.108+07:00  INFO 168352 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T14:19:49.571+07:00  INFO 168352 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:19:49.578+07:00  INFO 168352 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:19:49.579+07:00  INFO 168352 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:19:49.603+07:00  INFO 168352 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 495 ms
+2026-02-07T14:19:50.916+07:00  INFO 168352 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:19:50.939+07:00  INFO 168352 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:19:50.943+07:00  INFO 168352 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.111 seconds (process running for 2.529)
+2026-02-07T14:19:59.605+07:00  INFO 168352 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:19:59.630+07:00  INFO 168352 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:43:02.800+07:00  INFO 68528 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 68528 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:43:02.802+07:00 DEBUG 68528 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:43:02.802+07:00  INFO 68528 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:43:02.828+07:00  INFO 68528 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T14:43:02.828+07:00  INFO 68528 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T14:43:03.306+07:00  INFO 68528 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:43:03.313+07:00  INFO 68528 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:43:03.313+07:00  INFO 68528 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:43:03.338+07:00  INFO 68528 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 510 ms
+2026-02-07T14:43:04.696+07:00  INFO 68528 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:43:04.722+07:00  INFO 68528 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:43:04.726+07:00  INFO 68528 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.182 seconds (process running for 2.646)
+2026-02-07T14:43:19.306+07:00  INFO 68528 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Gõ /help để thêm chi tiết.","method":"sendmessage"}
+2026-02-07T14:44:45.134+07:00  INFO 68528 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T14:44:45.160+07:00  INFO 68528 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T14:44:47.809+07:00  INFO 22476 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 22476 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T14:44:47.811+07:00 DEBUG 22476 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T14:44:47.812+07:00  INFO 22476 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T14:44:47.837+07:00  INFO 22476 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T14:44:47.837+07:00  INFO 22476 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T14:44:48.327+07:00  INFO 22476 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T14:44:48.334+07:00  INFO 22476 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T14:44:48.334+07:00  INFO 22476 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T14:44:48.362+07:00  INFO 22476 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 525 ms
+2026-02-07T14:44:49.691+07:00  INFO 22476 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T14:44:49.722+07:00  INFO 22476 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T14:44:49.727+07:00  INFO 22476 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.19 seconds (process running for 2.706)
+2026-02-07T14:45:09.830+07:00  INFO 22476 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp không hợp lệ.\nGõ /help Joe 477 để xem chi tiết.","method":"sendmessage"}
+2026-02-07T14:50:09.524+07:00  INFO 22476 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp không hợp lệ.\nGõ /help Joe 477 để xem chi tiết.","method":"sendmessage"}
+2026-02-07T14:51:20.584+07:00  INFO 22476 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp không hợp lệ.\nGõ /help Joe 477 để xem chi tiết.","method":"sendmessage"}
+2026-02-07T14:57:13.677+07:00  INFO 22476 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp không hợp lệ.\nGõ /help Joe 477 để xem chi tiết.","method":"sendmessage"}
+2026-02-07T15:00:21.752+07:00  INFO 22476 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T15:00:21.776+07:00  INFO 22476 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T15:07:56.051+07:00  INFO 89612 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 89612 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T15:07:56.053+07:00 DEBUG 89612 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T15:07:56.053+07:00  INFO 89612 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T15:07:56.078+07:00  INFO 89612 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T15:07:56.078+07:00  INFO 89612 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T15:07:56.554+07:00  INFO 89612 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T15:07:56.562+07:00  INFO 89612 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T15:07:56.563+07:00  INFO 89612 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T15:07:56.588+07:00  INFO 89612 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 510 ms
+2026-02-07T15:07:57.966+07:00  INFO 89612 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T15:07:57.991+07:00  INFO 89612 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T15:07:57.994+07:00  INFO 89612 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.193 seconds (process running for 2.61)
+2026-02-07T15:09:54.816+07:00  INFO 89612 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T15:09:54.841+07:00  INFO 89612 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T15:09:57.313+07:00  INFO 82084 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 82084 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T15:09:57.314+07:00 DEBUG 82084 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T15:09:57.315+07:00  INFO 82084 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T15:09:57.339+07:00  INFO 82084 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T15:09:57.340+07:00  INFO 82084 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T15:09:57.798+07:00  INFO 82084 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T15:09:57.805+07:00  INFO 82084 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T15:09:57.806+07:00  INFO 82084 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T15:09:57.830+07:00  INFO 82084 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 490 ms
+2026-02-07T15:09:59.209+07:00  INFO 82084 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T15:09:59.233+07:00  INFO 82084 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T15:09:59.237+07:00  INFO 82084 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.173 seconds (process running for 2.636)
+2026-02-07T15:10:21.073+07:00  INFO 82084 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Bạn khum có quyền.\nVui lòng liên hệ Đại K Cường.","method":"sendmessage"}
+2026-02-07T15:10:32.349+07:00  INFO 82084 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Bạn khum có quyền.\nVui lòng liên hệ Đại K Cường.","method":"sendmessage"}
+2026-02-07T15:21:15.794+07:00 ERROR 82084 --- [secretary-bot] [pool-3-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 702 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: java.net.SocketTimeoutException: timeout
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:675) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:684) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:97) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154) ~[okhttp-4.12.0.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:139) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T15:21:16.899+07:00  INFO 82084 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp không hợp lệ.\nGõ /help để xem chi tiết.","method":"sendmessage"}
+2026-02-07T15:21:17.271+07:00  INFO 82084 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T15:21:17.295+07:00  INFO 82084 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T15:21:19.934+07:00  INFO 117964 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 117964 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T15:21:19.935+07:00 DEBUG 117964 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T15:21:19.936+07:00  INFO 117964 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T15:21:19.960+07:00  INFO 117964 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T15:21:19.961+07:00  INFO 117964 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T15:21:20.443+07:00  INFO 117964 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T15:21:20.451+07:00  INFO 117964 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T15:21:20.451+07:00  INFO 117964 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T15:21:20.480+07:00  INFO 117964 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 519 ms
+2026-02-07T15:21:21.839+07:00  INFO 117964 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T15:21:21.868+07:00  INFO 117964 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T15:21:21.874+07:00  INFO 117964 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.195 seconds (process running for 2.633)
+2026-02-07T15:22:48.908+07:00  INFO 117964 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T15:22:48.932+07:00  INFO 117964 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T15:35:13.264+07:00  INFO 124744 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 124744 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T15:35:13.265+07:00 DEBUG 124744 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T15:35:13.266+07:00  INFO 124744 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T15:35:13.291+07:00  INFO 124744 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T15:35:13.292+07:00  INFO 124744 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T15:35:13.772+07:00  INFO 124744 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T15:35:13.780+07:00  INFO 124744 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T15:35:13.780+07:00  INFO 124744 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T15:35:13.805+07:00  INFO 124744 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 513 ms
+2026-02-07T15:35:15.222+07:00  INFO 124744 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T15:35:15.247+07:00  INFO 124744 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T15:35:15.250+07:00  INFO 124744 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.241 seconds (process running for 2.678)
+2026-02-07T15:36:02.542+07:00  INFO 124744 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T15:36:02.568+07:00  INFO 124744 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T15:40:59.184+07:00  INFO 1756 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 1756 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T15:40:59.186+07:00 DEBUG 1756 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T15:40:59.187+07:00  INFO 1756 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T15:40:59.211+07:00  INFO 1756 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T15:40:59.212+07:00  INFO 1756 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T15:40:59.685+07:00  INFO 1756 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T15:40:59.693+07:00  INFO 1756 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T15:40:59.693+07:00  INFO 1756 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T15:40:59.719+07:00  INFO 1756 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 507 ms
+2026-02-07T15:41:01.088+07:00  INFO 1756 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T15:41:01.113+07:00  INFO 1756 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T15:41:01.116+07:00  INFO 1756 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.186 seconds (process running for 2.629)
+2026-02-07T15:42:04.473+07:00 ERROR 1756 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : firstName is marked non-null but is null
+2026-02-07T15:43:11.472+07:00  INFO 1756 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T15:43:11.496+07:00  INFO 1756 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T15:43:14.092+07:00  INFO 176820 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 176820 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T15:43:14.094+07:00 DEBUG 176820 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T15:43:14.095+07:00  INFO 176820 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T15:43:14.120+07:00  INFO 176820 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T15:43:14.120+07:00  INFO 176820 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T15:43:14.592+07:00  INFO 176820 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T15:43:14.599+07:00  INFO 176820 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T15:43:14.600+07:00  INFO 176820 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T15:43:14.625+07:00  INFO 176820 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 505 ms
+2026-02-07T15:43:15.968+07:00  INFO 176820 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T15:43:15.992+07:00  INFO 176820 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T15:43:15.995+07:00  INFO 176820 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.155 seconds (process running for 2.582)
+2026-02-07T15:43:29.900+07:00 ERROR 176820 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : isBot is marked non-null but is null
+2026-02-07T15:44:29.909+07:00 ERROR 176820 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : isBot is marked non-null but is null
+2026-02-07T15:45:18.469+07:00 ERROR 176820 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : isBot is marked non-null but is null
+2026-02-07T15:45:41.618+07:00  INFO 176820 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T15:45:41.643+07:00  INFO 176820 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T15:45:44.041+07:00  INFO 138512 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 138512 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T15:45:44.042+07:00 DEBUG 138512 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T15:45:44.043+07:00  INFO 138512 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T15:45:44.068+07:00  INFO 138512 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T15:45:44.068+07:00  INFO 138512 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T15:45:44.540+07:00  INFO 138512 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T15:45:44.548+07:00  INFO 138512 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T15:45:44.548+07:00  INFO 138512 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T15:45:44.574+07:00  INFO 138512 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 506 ms
+2026-02-07T15:45:45.947+07:00  INFO 138512 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T15:45:45.971+07:00  INFO 138512 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T15:45:45.975+07:00  INFO 138512 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.185 seconds (process running for 2.622)
+2026-02-07T15:46:00.371+07:00  INFO 138512 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã bị cấm chat trong 1 phút.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T15:46:35.730+07:00  INFO 138512 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã được ân xá.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T15:47:19.606+07:00  INFO 138512 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Gõ /help để thêm chi tiết.","method":"sendmessage"}
+2026-02-07T15:47:36.230+07:00  INFO 138512 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã bị cấm chat trong 0 giây.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T15:53:35.027+07:00  INFO 138512 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T15:53:35.052+07:00  INFO 138512 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T15:53:37.607+07:00  INFO 143868 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 143868 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T15:53:37.609+07:00 DEBUG 143868 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T15:53:37.610+07:00  INFO 143868 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T15:53:37.634+07:00  INFO 143868 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T15:53:37.635+07:00  INFO 143868 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T15:53:38.109+07:00  INFO 143868 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T15:53:38.116+07:00  INFO 143868 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T15:53:38.116+07:00  INFO 143868 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T15:53:38.141+07:00  INFO 143868 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 506 ms
+2026-02-07T15:53:39.499+07:00  INFO 143868 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T15:53:39.523+07:00  INFO 143868 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T15:53:39.527+07:00  INFO 143868 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.173 seconds (process running for 2.633)
+2026-02-07T15:54:36.462+07:00  INFO 143868 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T15:54:36.486+07:00  INFO 143868 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T15:54:39.018+07:00  INFO 131632 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 131632 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T15:54:39.020+07:00 DEBUG 131632 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T15:54:39.020+07:00  INFO 131632 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T15:54:39.045+07:00  INFO 131632 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T15:54:39.045+07:00  INFO 131632 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T15:54:39.591+07:00  INFO 131632 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T15:54:39.599+07:00  INFO 131632 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T15:54:39.599+07:00  INFO 131632 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T15:54:39.624+07:00  INFO 131632 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 579 ms
+2026-02-07T15:54:40.960+07:00  INFO 131632 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T15:54:40.984+07:00  INFO 131632 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T15:54:40.988+07:00  INFO 131632 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.223 seconds (process running for 2.65)
+2026-02-07T15:55:23.283+07:00  INFO 131632 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T15:55:23.307+07:00  INFO 131632 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T15:55:25.895+07:00  INFO 211644 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 211644 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T15:55:25.897+07:00 DEBUG 211644 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T15:55:25.897+07:00  INFO 211644 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T15:55:25.923+07:00  INFO 211644 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T15:55:25.923+07:00  INFO 211644 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T15:55:26.398+07:00  INFO 211644 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T15:55:26.405+07:00  INFO 211644 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T15:55:26.406+07:00  INFO 211644 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T15:55:26.431+07:00  INFO 211644 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 507 ms
+2026-02-07T15:55:27.775+07:00  INFO 211644 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T15:55:27.799+07:00  INFO 211644 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T15:55:27.803+07:00  INFO 211644 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.167 seconds (process running for 2.586)
+2026-02-07T15:55:43.014+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp không hợp lệ.\nGõ /help để xem chi tiết.","method":"sendmessage"}
+2026-02-07T15:56:25.813+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp không hợp lệ.\nGõ /help để xem chi tiết.","method":"sendmessage"}
+2026-02-07T15:56:32.750+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp không hợp lệ.\nGõ /help để xem chi tiết.","method":"sendmessage"}
+2026-02-07T15:56:44.244+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Thời gian phải lớn hơn 0.","method":"sendmessage"}
+2026-02-07T15:57:02.262+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Thời gian phải lớn hơn 0.","method":"sendmessage"}
+2026-02-07T15:57:13.321+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp:\n\\- /mute @taylor\\_swift 5 \\- Cấm chat Taylor Swift trong 5 phút\n\\- /unmute @taylor\\_swift \\- Mở chat Taylor Swift","parse_mode":"MarkdownV2","method":"sendmessage"}
+2026-02-07T15:57:48.649+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Thời gian phải lớn hơn 0.","method":"sendmessage"}
+2026-02-07T16:00:21.821+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Bạn khum có quyền.\nVui lòng liên hệ Đại K Cường.","method":"sendmessage"}
+2026-02-07T16:01:39.560+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Bạn khum có quyền.\nVui lòng liên hệ Đại K Cường.","method":"sendmessage"}
+2026-02-07T16:02:16.248+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Bạn khum có quyền.\nVui lòng liên hệ Đại K Cường.","method":"sendmessage"}
+2026-02-07T16:05:22.919+07:00  INFO 211644 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Bạn khum có quyền.\nVui lòng liên hệ Đại K Cường.","method":"sendmessage"}
+2026-02-07T16:05:22.963+07:00  INFO 211644 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:05:22.988+07:00  INFO 211644 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:05:25.213+07:00  INFO 197332 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 197332 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:05:25.215+07:00 DEBUG 197332 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:05:25.216+07:00  INFO 197332 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:05:25.241+07:00  INFO 197332 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T16:05:25.241+07:00  INFO 197332 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T16:05:25.735+07:00  INFO 197332 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:05:25.742+07:00  INFO 197332 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:05:25.743+07:00  INFO 197332 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:05:25.769+07:00  INFO 197332 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 527 ms
+2026-02-07T16:05:27.221+07:00  INFO 197332 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:05:27.246+07:00  INFO 197332 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:05:27.250+07:00  INFO 197332 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.308 seconds (process running for 2.754)
+2026-02-07T16:05:50.172+07:00 ERROR 197332 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : For input string: "0.1"
+2026-02-07T16:05:51.199+07:00  INFO 197332 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6537113113","text":"For input string: \"0.1\"","method":"sendmessage"}
+2026-02-07T16:07:43.133+07:00 ERROR 197332 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : For input string: "0.1"
+2026-02-07T16:07:44.261+07:00  INFO 197332 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6537113113","text":"For input string: \"0.1\"","method":"sendmessage"}
+2026-02-07T16:16:39.278+07:00  INFO 197332 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:16:39.303+07:00  INFO 197332 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:16:42.016+07:00  INFO 884 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 884 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:16:42.018+07:00 DEBUG 884 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:16:42.019+07:00  INFO 884 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:16:42.044+07:00  INFO 884 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T16:16:42.044+07:00  INFO 884 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T16:16:42.521+07:00  INFO 884 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:16:42.528+07:00  INFO 884 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:16:42.528+07:00  INFO 884 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:16:42.553+07:00  INFO 884 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 508 ms
+2026-02-07T16:16:43.935+07:00  INFO 884 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:16:43.961+07:00  INFO 884 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:16:43.965+07:00  INFO 884 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.243 seconds (process running for 2.684)
+2026-02-07T16:16:53.342+07:00  INFO 884 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Gõ /help để thêm chi tiết.","method":"sendmessage"}
+2026-02-07T16:17:58.936+07:00  INFO 884 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã bị cấm chat trong 6.0 giây.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T16:18:58.213+07:00  INFO 884 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp không hợp lệ.\nGõ /help để xem chi tiết.","method":"sendmessage"}
+2026-02-07T16:19:49.377+07:00  INFO 884 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:19:49.402+07:00  INFO 884 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:19:52.016+07:00  INFO 94008 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 94008 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:19:52.017+07:00 DEBUG 94008 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:19:52.018+07:00  INFO 94008 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:19:52.043+07:00  INFO 94008 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T16:19:52.043+07:00  INFO 94008 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T16:19:52.516+07:00  INFO 94008 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:19:52.523+07:00  INFO 94008 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:19:52.523+07:00  INFO 94008 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:19:52.548+07:00  INFO 94008 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 505 ms
+2026-02-07T16:19:53.865+07:00  INFO 94008 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:19:53.894+07:00  INFO 94008 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:19:53.898+07:00  INFO 94008 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.133 seconds (process running for 2.568)
+2026-02-07T16:21:10.904+07:00  INFO 94008 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã bị cấm chat trong 20 ngày 0h6 phút.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T16:21:36.635+07:00  INFO 94008 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Cú pháp không hợp lệ.\nGõ /help để xem chi tiết.","method":"sendmessage"}
+2026-02-07T16:23:12.034+07:00  INFO 94008 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:23:12.060+07:00  INFO 94008 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:23:14.728+07:00  INFO 6528 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 6528 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:23:14.730+07:00 DEBUG 6528 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:23:14.731+07:00  INFO 6528 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:23:14.756+07:00  INFO 6528 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T16:23:14.756+07:00  INFO 6528 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T16:23:15.258+07:00  INFO 6528 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:23:15.265+07:00  INFO 6528 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:23:15.265+07:00  INFO 6528 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:23:15.291+07:00  INFO 6528 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 535 ms
+2026-02-07T16:23:16.667+07:00  INFO 6528 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:23:16.697+07:00  INFO 6528 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:23:16.702+07:00  INFO 6528 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.226 seconds (process running for 2.657)
+2026-02-07T16:23:28.303+07:00  INFO 6528 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã được ân xá.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T16:23:58.651+07:00  INFO 6528 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã bị cấm chat trong 45 ngày 0 giờ 23 phút.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T16:25:00.993+07:00  INFO 6528 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã được ân xá.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T16:26:10.080+07:00  INFO 6528 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã bị cấm chat trong 21 ngày 16 giờ 15 phút.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T16:26:25.087+07:00  INFO 6528 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã được ân xá.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T16:30:27.503+07:00 ERROR 6528 --- [secretary-bot] [pool-3-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 587 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: java.net.SocketTimeoutException: timeout
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:675) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:684) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:97) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201) ~[okhttp-4.12.0.jar:na]
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154) ~[okhttp-4.12.0.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:139) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T16:30:27.532+07:00  INFO 6528 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:30:27.558+07:00  INFO 6528 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:30:30.048+07:00  INFO 154724 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 154724 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:30:30.050+07:00 DEBUG 154724 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:30:30.050+07:00  INFO 154724 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:30:30.075+07:00  INFO 154724 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T16:30:30.075+07:00  INFO 154724 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T16:30:30.551+07:00  INFO 154724 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:30:30.558+07:00  INFO 154724 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:30:30.559+07:00  INFO 154724 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:30:30.583+07:00  INFO 154724 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 508 ms
+2026-02-07T16:30:31.915+07:00  INFO 154724 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:30:31.941+07:00  INFO 154724 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:30:31.945+07:00  INFO 154724 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.148 seconds (process running for 2.566)
+2026-02-07T16:30:46.632+07:00  INFO 154724 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : Không tìm thấy userId của 2
+2026-02-07T16:30:47.664+07:00  INFO 154724 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6537113113","text":"Không tìm thấy userId của 2","method":"sendmessage"}
+2026-02-07T16:31:16.770+07:00  INFO 154724 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : Không tìm thấy userId của 2
+2026-02-07T16:31:17.763+07:00  INFO 154724 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:31:17.788+07:00  INFO 154724 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:31:20.276+07:00  INFO 30016 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 30016 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:31:20.277+07:00 DEBUG 30016 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:31:20.278+07:00  INFO 30016 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:31:20.303+07:00  INFO 30016 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T16:31:20.303+07:00  INFO 30016 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T16:31:20.818+07:00  INFO 30016 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:31:20.828+07:00  INFO 30016 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:31:20.828+07:00  INFO 30016 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:31:20.878+07:00  INFO 30016 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 575 ms
+2026-02-07T16:31:22.326+07:00  INFO 30016 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:31:22.351+07:00  INFO 30016 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:31:22.355+07:00  INFO 30016 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.355 seconds (process running for 2.79)
+2026-02-07T16:31:26.220+07:00  INFO 30016 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : Không tìm thấy userId của @quoccuong_768
+2026-02-07T16:31:27.297+07:00  INFO 30016 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"6537113113","text":"Không tìm thấy userId của @quoccuong_768","method":"sendmessage"}
+2026-02-07T16:32:19.288+07:00  INFO 30016 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-02-07T16:32:19.291+07:00  INFO 30016 --- [secretary-bot] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:32:19.318+07:00  INFO 30016 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:32:19.371+07:00  INFO 30016 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 30016 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:32:19.371+07:00 DEBUG 30016 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:32:19.371+07:00  INFO 30016 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:32:19.457+07:00  INFO 30016 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:32:19.458+07:00  INFO 30016 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:32:19.458+07:00  INFO 30016 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:32:19.471+07:00  INFO 30016 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 99 ms
+2026-02-07T16:32:20.387+07:00  INFO 30016 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:32:20.396+07:00  INFO 30016 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:32:20.397+07:00  INFO 30016 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 1.046 seconds (process running for 60.832)
+2026-02-07T16:32:20.398+07:00  INFO 30016 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T16:32:20.834+07:00 ERROR 30016 --- [secretary-bot] [pool-3-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 519 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T16:32:42.115+07:00  INFO 30016 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:32:42.138+07:00  INFO 30016 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:32:43.621+07:00  INFO 96596 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 96596 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:32:43.623+07:00 DEBUG 96596 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:32:43.623+07:00  INFO 96596 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:32:43.648+07:00  INFO 96596 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T16:32:43.648+07:00  INFO 96596 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T16:32:44.113+07:00  INFO 96596 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:32:44.121+07:00  INFO 96596 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:32:44.121+07:00  INFO 96596 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:32:44.146+07:00  INFO 96596 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 498 ms
+2026-02-07T16:32:45.463+07:00  INFO 96596 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:32:45.495+07:00  INFO 96596 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:32:45.499+07:00  INFO 96596 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.129 seconds (process running for 2.56)
+2026-02-07T16:33:10.573+07:00  INFO 96596 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-02-07T16:33:10.582+07:00  INFO 96596 --- [secretary-bot] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:33:10.613+07:00  INFO 96596 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:33:10.661+07:00  INFO 96596 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 96596 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:33:10.661+07:00 DEBUG 96596 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:33:10.661+07:00  INFO 96596 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:33:10.743+07:00  INFO 96596 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:33:10.744+07:00  INFO 96596 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:33:10.744+07:00  INFO 96596 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:33:10.758+07:00  INFO 96596 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 96 ms
+2026-02-07T16:33:11.637+07:00  INFO 96596 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:33:11.649+07:00  INFO 96596 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:33:11.651+07:00  INFO 96596 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 1.006 seconds (process running for 28.711)
+2026-02-07T16:33:11.653+07:00  INFO 96596 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T16:33:12.075+07:00 ERROR 96596 --- [secretary-bot] [pool-3-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 473 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T16:33:38.489+07:00  INFO 96596 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:33:38.520+07:00  INFO 96596 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:33:41.582+07:00  INFO 67256 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 67256 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:33:41.584+07:00 DEBUG 67256 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:33:41.584+07:00  INFO 67256 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:33:41.609+07:00  INFO 67256 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T16:33:41.609+07:00  INFO 67256 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-02-07T16:33:42.088+07:00  INFO 67256 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:33:42.095+07:00  INFO 67256 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:33:42.096+07:00  INFO 67256 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:33:42.123+07:00  INFO 67256 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 513 ms
+2026-02-07T16:33:43.455+07:00  INFO 67256 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:33:43.481+07:00  INFO 67256 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:33:43.485+07:00  INFO 67256 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.163 seconds (process running for 2.582)
+2026-02-07T16:35:18.669+07:00  INFO 67256 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:35:18.693+07:00  INFO 67256 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:50:09.232+07:00  INFO 99708 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 99708 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:50:09.234+07:00 DEBUG 99708 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:50:09.235+07:00  INFO 99708 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:50:09.260+07:00  INFO 99708 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T16:50:09.720+07:00  INFO 99708 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:50:09.728+07:00  INFO 99708 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:50:09.728+07:00  INFO 99708 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:50:09.753+07:00  INFO 99708 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 492 ms
+2026-02-07T16:50:09.761+07:00 DEBUG 99708 --- [secretary-bot] [restartedMain] o.s.b.w.s.ServletContextInitializerBeans : Mapping filters: characterEncodingFilter urls=[/*] order=-2147483648, formContentFilter urls=[/*] order=-9900, requestContextFilter urls=[/*] order=-105
+2026-02-07T16:50:09.762+07:00 DEBUG 99708 --- [secretary-bot] [restartedMain] o.s.b.w.s.ServletContextInitializerBeans : Mapping servlets: dispatcherServlet urls=[/]
+2026-02-07T16:50:09.871+07:00 DEBUG 99708 --- [secretary-bot] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2026-02-07T16:50:09.883+07:00 DEBUG 99708 --- [secretary-bot] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2026-02-07T16:50:09.892+07:00 DEBUG 99708 --- [secretary-bot] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 2 RequestBodyAdvice, 1 ResponseBodyAdvice
+2026-02-07T16:50:09.914+07:00 DEBUG 99708 --- [secretary-bot] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2026-02-07T16:50:11.106+07:00  INFO 99708 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:50:11.130+07:00  INFO 99708 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:50:11.133+07:00  INFO 99708 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.152 seconds (process running for 2.587)
+2026-02-07T16:50:33.525+07:00  INFO 99708 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:50:33.553+07:00  INFO 99708 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:50:42.142+07:00  INFO 47204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 47204 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:50:42.144+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:50:42.145+07:00  INFO 47204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:50:42.169+07:00  INFO 47204 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T16:50:42.630+07:00  INFO 47204 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:50:42.637+07:00  INFO 47204 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:50:42.638+07:00  INFO 47204 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:50:42.663+07:00  INFO 47204 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 494 ms
+2026-02-07T16:50:42.672+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] o.s.b.w.s.ServletContextInitializerBeans : Mapping filters: characterEncodingFilter urls=[/*] order=-2147483648, formContentFilter urls=[/*] order=-9900, requestContextFilter urls=[/*] order=-105
+2026-02-07T16:50:42.672+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] o.s.b.w.s.ServletContextInitializerBeans : Mapping servlets: dispatcherServlet urls=[/]
+2026-02-07T16:50:42.783+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2026-02-07T16:50:42.794+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2026-02-07T16:50:42.803+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 2 RequestBodyAdvice, 1 ResponseBodyAdvice
+2026-02-07T16:50:42.826+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2026-02-07T16:50:44.022+07:00  INFO 47204 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:50:44.048+07:00  INFO 47204 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:50:44.051+07:00  INFO 47204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 2.185 seconds (process running for 2.685)
+2026-02-07T16:52:28.373+07:00  INFO 47204 --- [secretary-bot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-02-07T16:52:28.376+07:00  INFO 47204 --- [secretary-bot] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T16:52:28.402+07:00  INFO 47204 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T16:52:28.452+07:00  INFO 47204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 47204 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T16:52:28.452+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T16:52:28.452+07:00  INFO 47204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T16:52:28.528+07:00  INFO 47204 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T16:52:28.528+07:00  INFO 47204 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T16:52:28.528+07:00  INFO 47204 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T16:52:28.539+07:00  INFO 47204 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 86 ms
+2026-02-07T16:52:28.541+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] o.s.b.w.s.ServletContextInitializerBeans : Mapping filters: characterEncodingFilter urls=[/*] order=-2147483648, formContentFilter urls=[/*] order=-9900, requestContextFilter urls=[/*] order=-105
+2026-02-07T16:52:28.541+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] o.s.b.w.s.ServletContextInitializerBeans : Mapping servlets: dispatcherServlet urls=[/]
+2026-02-07T16:52:28.562+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2026-02-07T16:52:28.564+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2026-02-07T16:52:28.566+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 2 RequestBodyAdvice, 1 ResponseBodyAdvice
+2026-02-07T16:52:28.568+07:00 DEBUG 47204 --- [secretary-bot] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2026-02-07T16:52:29.400+07:00  INFO 47204 --- [secretary-bot] [restartedMain] o.t.telegrambots.longpolling.BotSession  : Result when calling deleteWebhook: true
+2026-02-07T16:52:29.407+07:00  INFO 47204 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 7198 (http) with context path '/'
+2026-02-07T16:52:29.409+07:00  INFO 47204 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Started SecretaryBotApplication in 0.971 seconds (process running for 108.042)
+2026-02-07T16:52:29.410+07:00  INFO 47204 --- [secretary-bot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-02-07T16:52:29.837+07:00 ERROR 47204 --- [secretary-bot] [pool-3-thread-1] o.t.telegrambots.longpolling.BotSession  : Error received from Telegram GetUpdates Request, retrying in 331 millis...
+
+-1: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:156) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at org.telegram.telegrambots.longpolling.BotSession.lambda$createPollerTask$1(BotSession.java:103) ~[telegrambots-longpolling-7.7.1.jar:na]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+Caused by: 409: org.telegram.telegrambots.longpolling.exceptions.TelegramApiErrorResponseException: 
+	at org.telegram.telegrambots.longpolling.BotSession.getUpdatesFromTelegram(BotSession.java:152) ~[telegrambots-longpolling-7.7.1.jar:na]
+	... 8 common frames omitted
+
+2026-02-07T16:52:54.535+07:00  INFO 47204 --- [secretary-bot] [pool-2-thread-1] c.q.secretarybot.service.BotService      : {"chat_id":"-1002235262481","text":"Quoc Cuong 277 bạn đã bị cấm chat trong 30.0 giây.","entities":[{"type":"text_mention","offset":0,"length":14,"user":{"id":7593003049,"first_name":"Quoc Cuong 277","is_bot":false}}],"method":"sendmessage"}
+2026-02-07T17:03:16.728+07:00  INFO 47204 --- [secretary-bot] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-07T17:03:16.753+07:00  INFO 47204 --- [secretary-bot] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-07T17:59:11.768+07:00  INFO 19856 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Starting SecretaryBotApplication using Java 17.0.11 with PID 19856 (D:\Projects\SecretaryBot\secretary-bot\target\classes started by QuocCuong in D:\Projects\SecretaryBot\secretary-bot)
+2026-02-07T17:59:11.772+07:00 DEBUG 19856 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : Running with Spring Boot v4.0.2, Spring v7.0.3
+2026-02-07T17:59:11.772+07:00  INFO 19856 --- [secretary-bot] [restartedMain] c.q.s.SecretaryBotApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-02-07T17:59:11.799+07:00  INFO 19856 --- [secretary-bot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-02-07T17:59:12.330+07:00  INFO 19856 --- [secretary-bot] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 7198 (http)
+2026-02-07T17:59:12.343+07:00  INFO 19856 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-02-07T17:59:12.343+07:00  INFO 19856 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-07T17:59:12.377+07:00  INFO 19856 --- [secretary-bot] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 577 ms
+2026-02-07T17:59:12.390+07:00 DEBUG 19856 --- [secretary-bot] [restartedMain] o.s.b.w.s.ServletContextInitializerBeans : Mapping filters: characterEncodingFilter urls=[/*] order=-2147483648, formContentFilter urls=[/*] order=-9900, requestContextFilter urls=[/*] order=-105
+2026-02-07T17:59:12.390+07:00 DEBUG 19856 --- [secretary-bot] [restartedMain] o.s.b.w.s.ServletContextInitializerBeans : Mapping servlets: dispatcherServlet urls=[/]
+2026-02-07T17:59:12.431+07:00  WARN 19856 --- [secretary-bot] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'botService': Injection of autowired dependencies failed
+2026-02-07T17:59:12.432+07:00  INFO 19856 --- [secretary-bot] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2026-02-07T17:59:12.439+07:00  INFO 19856 --- [secretary-bot] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-02-07T17:59:12.447+07:00 ERROR 19856 --- [secretary-bot] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'botService': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:498) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1446) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:993) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:620) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.2.jar:4.0.2]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.2.jar:4.0.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.2.jar:4.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.2.jar:4.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.2.jar:4.0.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.2.jar:4.0.2]
+	at com.quoccuong.secretarybot.SecretaryBotApplication.main(SecretaryBotApplication.java:10) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.2.jar:4.0.2]
+Caused by: org.springframework.util.PlaceholderResolutionException: Could not resolve placeholder 'BOT_TOKEN' in value "${BOT_TOKEN}" <-- "${telegram.bot.token}"
+	at org.springframework.util.PlaceholderResolutionException.withValue(PlaceholderResolutionException.java:81) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.util.PlaceholderParser$ParsedValue.resolve(PlaceholderParser.java:296) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.util.PlaceholderParser.replacePlaceholders(PlaceholderParser.java:129) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:96) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:286) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:257) ~[spring-core-7.0.3.jar:7.0.3]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:184) ~[spring-context-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:959) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1672) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1651) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:763) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:747) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:146) ~[spring-beans-7.0.3.jar:7.0.3]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:492) ~[spring-beans-7.0.3.jar:7.0.3]
+	... 24 common frames omitted
+

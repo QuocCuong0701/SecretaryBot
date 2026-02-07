@@ -1,0 +1,7 @@
+### Google cloud https://console.cloud.google.com/
+# lệnh deploy
+gcloud run deploy secretary-bot --source . --region asia-southeast1 --allow-unauthenticated
+# lệnh set scale = 0 - để tạm dừng
+gcloud run services update secretary-bot --region asia-southeast1 --scaling=0
+
+### Fly.io
