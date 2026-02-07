@@ -1,3 +1,4 @@
+RUN mvn clean package -DskipTests
 # Sử dụng base image nhẹ, hỗ trợ tốt Alpine + Zulu (tối ưu memory)
 FROM azul/zulu-openjdk:17-jre-headless
 
