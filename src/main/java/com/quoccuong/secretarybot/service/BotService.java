@@ -236,7 +236,7 @@ public class BotService implements SpringLongPollingBot, LongPollingSingleThread
             if (userId != null) {
                 String[] args = command.split(" ");
                 try {
-                    ChatPermissions chatPermissions = getMutePermissions(!mute);
+                    ChatPermissions chatPermissions = getChatPermissions(!mute);
                     double time = 0;
                     if (entity == null) {
                         time = mute ? Double.parseDouble(args[2]) : 0;
@@ -310,16 +310,18 @@ public class BotService implements SpringLongPollingBot, LongPollingSingleThread
                 return null;
             }
             String username = args[1].substring(1);
-            if (username.equals(botUsername)) {
-                sendMessage(chatId, messageRandom[CommonUtils.randomNumber(1, messageRandom.length)]);
-                return null;
-            } else if (isCuongUsername(username)) {
-                sendMessage(chatId, messageRandom[CommonUtils.randomNumber(0, messageRandom.length)]);
-                int randomNumber = CommonUtils.randomNumber(0, 7);
-                if (StringUtils.hasText(currentUsername) && randomNumber == 2) {
-                    doAction(null, COMMAND_MUTE + " @" + currentUsername + " 5", chatId, null, true);
+            if (mute) {
+                if (username.equals(botUsername)) {
+                    sendMessage(chatId, messageRandom[CommonUtils.randomNumber(1, messageRandom.length)]);
+                    return null;
+                } else if (isCuongUsername(username)) {
+                    sendMessage(chatId, messageRandom[CommonUtils.randomNumber(0, messageRandom.length)]);
+                    int randomNumber = CommonUtils.randomNumber(0, 7);
+                    if (StringUtils.hasText(currentUsername) && randomNumber == 2) {
+                        doAction(null, COMMAND_MUTE + " @" + currentUsername + " 5", chatId, null, true);
+                    }
+                    return null;
                 }
-                return null;
             }
             Long userId = CommonConstant.USER_ID_IN_GROUP_MAP.get(username);
             if (userId == null) {
@@ -332,9 +334,9 @@ public class BotService implements SpringLongPollingBot, LongPollingSingleThread
     }
 
     /**
-     * Thông tin cấm chat
+     * Quyền hạn chat
      */
-    private ChatPermissions getMutePermissions(boolean hasPermission) {
+    private ChatPermissions getChatPermissions(boolean hasPermission) {
         return ChatPermissions.builder()
                 .canSendMessages(hasPermission)
                 .canSendAudios(hasPermission)
@@ -357,9 +359,9 @@ public class BotService implements SpringLongPollingBot, LongPollingSingleThread
      */
     private String getMuteTimeText(double time) {
         if (time < 1) {
-            return (time * 60) + " giây";
+            return (int) (time * 60) + " giây";
         } else if (time < 60) {
-            return time + " phút";
+            return (int) time + " phút";
         } else {
             int hour = (int) time / 60;
             if (hour >= 24) {
