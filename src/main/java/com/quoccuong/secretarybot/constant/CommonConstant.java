@@ -7,8 +7,8 @@ public class CommonConstant {
     private CommonConstant() {
     }
 
-    //    public static final String CUONG_USERNAME = "quoccuong_0701";
-    public static final String CUONG_USERNAME = "cuongpq_0701"; // test
+    public static final String CUONG_USERNAME = "quoccuong_0701";
+    //    public static final String CUONG_USERNAME = "cuongpq_0701"; // test
     public static final List<String> ADMINS = List.of("GroupAnonymousBot", "cuongpq_0701", "quoccuong_0701");
 
     public static final Map<String, Long> USER_ID_IN_GROUP_MAP = Map.of(
