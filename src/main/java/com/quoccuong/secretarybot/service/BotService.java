@@ -57,11 +57,11 @@ public class BotService implements SpringLongPollingBot, LongPollingSingleThread
             "Bạn không thể cấm anh tôi ~(￣▽￣)~",
             "Hên xui là tui cấm bạn đó.",
             "Đừng làm điều dại dột.",
-            "À thế à.",
+            "À thế à. (¬_¬ )",
             "Cho bạn 5s suy nghĩ lại.",
             "No no no. Bạn không thể làm vậy.",
-            "Rẩt nghịch.",
-            "Tui là tui ghim đó nha.",
+            "Rẩt nghịch. (* ￣︿￣)",
+            "Có nội gián.",
     };
 
     @Override
@@ -200,7 +200,7 @@ public class BotService implements SpringLongPollingBot, LongPollingSingleThread
         } catch (TelegramApiException e) {
             log.error(e.getMessage());
             sendMessage(adminChatId, e.getMessage());
-            sendMessage(Long.parseLong(chatId), "Lỗi rồi check đi @" + CommonConstant.CUONG_USERNAME);
+//            sendMessage(Long.parseLong(chatId), "Lỗi rồi check đi @" + CommonConstant.CUONG_USERNAME);
             return List.of();
         }
     }
@@ -318,7 +318,7 @@ public class BotService implements SpringLongPollingBot, LongPollingSingleThread
                     sendMessage(chatId, messageRandom[CommonUtils.randomNumber(0, messageRandom.length)]);
                     int randomNumber = CommonUtils.randomNumber(0, 7);
                     if (StringUtils.hasText(currentUsername) && randomNumber == 2) {
-                        doAction(null, COMMAND_MUTE + " @" + currentUsername + " 5", chatId, null, true);
+                        doAction(null, COMMAND_MUTE + " @" + currentUsername + " 1", chatId, null, true);
                     }
                     return null;
                 }
